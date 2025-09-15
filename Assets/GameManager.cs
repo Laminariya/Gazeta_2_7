@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
         _currentLang = 0;
         b_Rus.enabled = false;
         b_Uzb.enabled = false;
-        VideoPlayer_Standby.Pause();
+        //VideoPlayer_Standby.Pause();
         RawImage.gameObject.SetActive(true);
         RawImage.color = new Color(1f, 1f, 1f, 0f);
         HomeParent.color = new Color(1f, 1f, 1f, 0f);
@@ -69,7 +69,7 @@ public class GameManager : MonoBehaviour
         _currentLang = 1;
         b_Rus.enabled = false;
         b_Uzb.enabled = false;
-        VideoPlayer_Standby.Pause();
+        //VideoPlayer_Standby.Pause();
         RawImage.gameObject.SetActive(true);
         RawImage.color = new Color(1f, 1f, 1f, 0f);
         HomeParent.color = new Color(1f, 1f, 1f, 0f);
@@ -88,7 +88,7 @@ public class GameManager : MonoBehaviour
         VideoPlayer.Stop();
         VideoPlayer.frame = 0;
         
-        VideoPlayer_Standby.Play();
+        //VideoPlayer_Standby.Play();
         _b_Home.image.DOFade(1f, 0.3f);
         _b_Home.image.DOFade(0f, 0.3f).SetDelay(0.3f);
         RawImage.DOFade(0f, 0.3f).SetDelay(0.6f).OnComplete(FinishHome);
@@ -108,7 +108,7 @@ public class GameManager : MonoBehaviour
         v.frame = 0;
         RawImage.gameObject.SetActive(false);
         HomeParent.gameObject.SetActive(false);
-        VideoPlayer_Standby.Play();
+        //VideoPlayer_Standby.Play();
     }
 
     private void FinishStartVideo()

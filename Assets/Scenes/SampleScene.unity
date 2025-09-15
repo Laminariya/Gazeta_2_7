@@ -1098,7 +1098,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 807412515}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 8267c3e019c56ca4c9493cb3cc73796a, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: f73b4b31c3c3d044796f7cbff8cf6609, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -2114,10 +2114,10 @@ MonoBehaviour:
   VideoPlayer: {fileID: 530782052}
   VideoPlayer_Standby: {fileID: 807412516}
   VideoClips:
-  - {fileID: 32900000, guid: b74e96e5913460449ae44d82625c2e22, type: 3}
-  - {fileID: 32900000, guid: b78651d84c8abf44f9a223bdd905851b, type: 3}
-  - {fileID: 32900000, guid: b78651d84c8abf44f9a223bdd905851b, type: 3}
-  - {fileID: 32900000, guid: b78651d84c8abf44f9a223bdd905851b, type: 3}
+  - {fileID: 32900000, guid: 7b99b53c73b25ea499f25327baec286a, type: 3}
+  - {fileID: 32900000, guid: b90a6aad23595a04dada0738f8caaf78, type: 3}
+  - {fileID: 32900000, guid: b90a6aad23595a04dada0738f8caaf78, type: 3}
+  - {fileID: 32900000, guid: b90a6aad23595a04dada0738f8caaf78, type: 3}
   LangParent: {fileID: 1878591253}
   HomeParent: {fileID: 605259669}
   HomeImage: {fileID: 1905808944}

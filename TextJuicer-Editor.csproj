@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{873c6c3b-7b35-4733-43c5-2cf414ccc247}</ProjectGuid>
+    <ProjectGuid>{b06e1f19-ef70-e013-8d11-08d06f408b5d}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -310,40 +310,40 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.39f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\log4netPlastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
-    </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.collab-proxy@2.9.2\Lib\Editor\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.39f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -730,24 +730,22 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.39f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:\Project\F_Uzbekistan\Gazeta(2.7)\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.TestRunner">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>C:\Users\ladmin.vizotron\Desktop\ProjectUzb\2_7_Gazeta\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="TextJuicer.csproj">
-      <Project>{edb90734-4719-2223-79e8-39bee999ea43}</Project>
+      <Project>{4b73a880-36a6-3ff0-212d-cdb065a8fadd}</Project>
       <Name>TextJuicer</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{2ab823a6-23cb-1ecf-e3be-49b58edaf443}</Project>
-      <Name>UnityEditor.TestRunner</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{e50bbb4b-1659-eb9c-efc6-6c47c1d7e2cf}</Project>
-      <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

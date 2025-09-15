@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextJuicer", "TextJuicer.csproj", "{4b73a880-36a6-3ff0-212d-cdb065a8fadd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{0f12ea1e-4a62-3bde-f9f6-2a964dc837a1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextJuicer-Editor", "TextJuicer-Editor.csproj", "{b06e1f19-ef70-e013-8d11-08d06f408b5d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{64209baf-03de-c57f-2315-bfbeb8ce8e25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4b73a880-36a6-3ff0-212d-cdb065a8fadd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4b73a880-36a6-3ff0-212d-cdb065a8fadd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0f12ea1e-4a62-3bde-f9f6-2a964dc837a1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0f12ea1e-4a62-3bde-f9f6-2a964dc837a1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b06e1f19-ef70-e013-8d11-08d06f408b5d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b06e1f19-ef70-e013-8d11-08d06f408b5d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64209baf-03de-c57f-2315-bfbeb8ce8e25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64209baf-03de-c57f-2315-bfbeb8ce8e25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
